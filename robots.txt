@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miguelruan162-ux.github.io/Assinatura-24horas-/sitemap.xml
